@@ -1,2 +1,2 @@
 # Object-Oriented-Java
-contains java programs 
+# This repo is deicated to Java Programs
