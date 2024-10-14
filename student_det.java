@@ -29,13 +29,6 @@ class StudentDet {
             total += marks[i] * credits[i];
             totalCredits += credits[i];
         }
-        
-        if (totalCredits != 0) {
-            double sgpa = (double) total / totalCredits;
-            System.out.printf("SGPA: %.2f%n", sgpa);
-        } else {
-            System.out.println("Total credits cannot be zero.");
-        }
     }
 
     void display() {
