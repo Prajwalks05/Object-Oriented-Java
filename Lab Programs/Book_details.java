@@ -9,7 +9,6 @@ class Book {
     int num_pages;
 
     Book(String name, String author, float price, int num_pages) {
-        super();
         this.name = name;
         this.author = author;
         this.price = price;
