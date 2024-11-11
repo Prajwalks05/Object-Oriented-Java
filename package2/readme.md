@@ -1,1 +1,2 @@
-##A Multiple packages arew imported into single file
+## Multiple Packages are Imported into a Single File
+![Example Image](https://example.com/path/to/image.jpg)
